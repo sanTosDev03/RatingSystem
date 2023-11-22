@@ -18,3 +18,11 @@ body {
 .item-full {
   background-color: rgb(255, 237, 35);
 }
+
+p {
+  display:inline;
+  padding: 9px 16px;
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+}
